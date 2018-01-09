@@ -17,7 +17,7 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 
 ---
 
-#What I ate for breakfast today
+# What I ate for breakfast today
 
 - Frosted Flakes
 - Milk
